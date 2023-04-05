@@ -1,0 +1,121 @@
+/* --------------------------------------------------style_reset------------------------------------------------------------ */
+*,
+*::before,
+*::after {
+   padding: 0;
+   margin: 0;
+   border: 0;
+   box-sizing: border-box;
+}
+
+a {
+   text-decoration: none;
+   color: inherit;
+}
+
+li {
+   list-style: none;
+}
+
+img {
+   vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+   font-weight: inherit;
+   font-size: inherit;
+}
+
+html,
+body {
+   height: 100%;
+   line-height: 1;
+}
+
+textarea,
+button,
+input {
+   font-weight: inherit;
+   font-size: inherit;
+   color: inherit;
+   font-family: inherit;
+}
+
+button {
+   cursor: pointer;
+   background-color: inherit;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------------- */
+body {
+   font-family: Poppins;
+   font-size: 14px;
+   color: #6C757D;
+
+}
+
+p {
+   margin: 20px 0px 20px 0px;
+}
+
+h2 {
+   font-size: 25px;
+   font-weight: 700;
+   line-height: 1.6;
+   height: 80px;
+   width: 399px;
+   margin: 50px 0px 0px 312px;
+   color: #212529;
+}
+
+h3 {
+   margin: 12px 312px 0px 312px;
+   font-size: 25px;
+   font-weight: 700;
+   line-height: 1.6;
+   color: #212529;
+}
+
+.text_1 {
+   width: 300;
+   line-height: 18px;
+   margin: 12px 312px 0px 312px;
+}
+
+.img_1 {
+   height: 400px;
+   width: 1240px;
+   display: block;
+   margin: 0 auto;
+}
+
+.text_2 {
+   margin: 12px 312px 0px 312px;
+}
+
+.img_4 {
+   max-width: 1270px;
+   margin: 0 auto;
+}
+
+.img_2 {
+   margin: 0 30px 0 0;
+   height: 400px;
+   width: 605px;
+}
+
+
+
+.img_3 {
+   height: 400px;
+   width: 605px;
+}
+
+.text_3 {
+   margin: 12px 312px 80px 312px;
+}
